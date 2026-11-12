@@ -1,4 +1,4 @@
-# Hidden Beneath the Pixels
+# Digital Footprint & Pixels
 **Author:** Tawfique Abrar Karim · Easy
 
 Not everything is what it appears to be. Some secrets are buried beneath layers of pixels, waiting for someone curious enough to look closer.
